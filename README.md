@@ -1,5 +1,5 @@
 # How to setup and run the app
-To run the app you have to follow the below steps in order
+To run the app you have to follow the below steps in order in VSCode.
 1. Open the terminal and change the directory to the project folder.
 2. check if you have nodeJs installed or not by using "node -v" command in terminal.
 3. If you dont have node, install it.
